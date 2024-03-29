@@ -1,0 +1,4 @@
+img {
+    max-width: 300px; /* Definindo a largura máxima em pixels */
+    height: auto; /* Mantendo a proporção original */
+}
